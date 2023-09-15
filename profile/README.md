@@ -10,6 +10,10 @@ The app will be developed as an open-sourced, dockerized service that can be ins
 
 CreatorCredentials.cc aims to establish a new role for public entities and organisations in digital media publishing. By extending the state-of-the-art in digital identities to the cultural and creative communities and solving existing real-world problems, the project aims to provide new and highly innovative software solutions for credential issuers and future trust services.
 
+## Overview
+
+![Trustchain-Creator-Credentials-Overview](https://github.com/CreatorCredentials/.github/assets/14913025/dffef754-8a76-433e-a2c8-71b707994b24)
+
 ## Contact Information
 
 If you have any questions, please fee free to reach out:
