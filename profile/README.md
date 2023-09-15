@@ -13,6 +13,8 @@ CreatorCredentials.cc aims to establish a new role for public entities and organ
 
 [https://trustchain.ngi.eu/creatorcredentials-cc/](https://trustchain.ngi.eu/creatorcredentials-cc/)
 
+![European-Flag](https://github.com/CreatorCredentials/.github/assets/14913025/f53962c2-7c4c-4312-a0b2-1485de3e60e5)
+
 The development work and innovation process has been funded by European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101093274
 
 ## Contact Information
