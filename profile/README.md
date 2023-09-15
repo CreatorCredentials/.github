@@ -10,17 +10,19 @@ The app will be developed as an open-sourced, dockerized service that can be ins
 
 CreatorCredentials.cc aims to establish a new role for public entities and organisations in digital media publishing. By extending the state-of-the-art in digital identities to the cultural and creative communities and solving existing real-world problems, the project aims to provide new and highly innovative software solutions for credential issuers and future trust services.
 
-
-[https://trustchain.ngi.eu/creatorcredentials-cc/](https://trustchain.ngi.eu/creatorcredentials-cc/)
-
-![European-Flag](https://github.com/CreatorCredentials/.github/assets/14913025/f53962c2-7c4c-4312-a0b2-1485de3e60e5 =x250)
-
-The development work and innovation process has been funded by European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101093274
-
 ## Contact Information
 
 If you have any questions, please fee free to reach out:
 
 Sebastian Posth [https://github.com/sposth](https://github.com/sposth)  
 Posth Werk [https://posth.me/](https://posth.me/)
+
+---
+<img src="https://github.com/CreatorCredentials/.github/assets/14913025/f53962c2-7c4c-4312-a0b2-1485de3e60e5" width="100"/>
+
+The development work and innovation process has been funded by European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101093274
+
+[https://trustchain.ngi.eu/creatorcredentials-cc/](https://trustchain.ngi.eu/creatorcredentials-cc/)
+
+---
 
