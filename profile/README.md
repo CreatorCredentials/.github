@@ -6,7 +6,7 @@
 
 CreatorCredentials.cc will develop a user-centric digital identity management framework specifically designed for the cultural and creative communities. This includes a software application that can be used by media organisations, membership organisations or other trust services to issue verifiable credentials to creators and other rightsholders. Creator Credentials will increase the trustworthiness of declarations and claims to digital media content online.
 
-![Trustchain-Creator-Credentials-Overview](https://1873141165-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ24Y4feVWHWWf6v1gexc%2Fuploads%2FA2ZlVfvy4elAp8Tnegp1%2FTrustchain-Creator-Credentials-Overview.png?alt=media&token=d413b189-c965-4ea6-ae2a-eefa4ba150a4)
+![Trustchain-Creator-Credentials-Overview](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FQ24Y4feVWHWWf6v1gexc%2Fuploads%2F0M2B0nEvApz9VQEDtW9U%2FTrustchain-Creator-Credentials-Overview-New.png?alt=media&token=380c91db-c056-4099-a76c-a48c91212186)
 
 The app will be based on new and upcoming ISO and W3C standards for decentralised content identification (ISCC), decentralised identifiers (DIDs), and verifiable credentials (VCs). It will be aligned with European regulations on digital identity, data privacy, and copyright, ensuring that all credentials issued and verified adhere to industry regulations and safeguard self-sovereign control over user data.
 
