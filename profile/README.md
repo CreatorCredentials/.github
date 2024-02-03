@@ -19,7 +19,7 @@ Creator Credentials aims to establish a new role for public entities and organis
 If you have any questions, please fee free to reach out:
 
 Sebastian Posth [https://github.com/sposth](https://github.com/sposth)  
-Posth Werk [https://posth.me/](https://posth.me/)
+Liccium B.V. [https://liccium.com/](https://liccium.com)
 
 ---
 <img src="https://github.com/CreatorCredentials/.github/assets/14913025/f53962c2-7c4c-4312-a0b2-1485de3e60e5" width="100"/>
