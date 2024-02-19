@@ -20,9 +20,15 @@ This includes a software application that can be used by media organisations, me
 
 Creator Credentials aims to establish a new role for public entities and organisations in digital media publishing. By extending the state-of-the-art in digital identities to the cultural and creative communities and solving existing real-world problems, the project aims to provide new and highly innovative software solutions for credential issuers and future trust services.
 
+## Whitepaper
+
+In the coming weeks we will continue to work on the documentation: [https://docs.creatorcredentials.com](https://docs.creatorcredentials.com)
+
+## Overview
+
 <div data-full-width="true">
 
-<figure><img src="https://github.com/CreatorCredentials/docs/blob/main/.gitbook/assets/Creator-Credentials-Overview.png" alt=""><figcaption><p>Creator Credentials – Overview</p></figcaption></figure>
+<figure><img src="https://github.com/CreatorCredentials/docs/blob/main/.gitbook/assets/Creator-Credentials-Overview.png" alt=""></figure>
 
 </div>
 
@@ -34,11 +40,11 @@ Sebastian Posth [https://github.com/sposth](https://github.com/sposth)
 Liccium B.V. [https://liccium.com/](https://liccium.com)
 
 ---
-<img src="https://github.com/CreatorCredentials/.github/assets/14913025/f53962c2-7c4c-4312-a0b2-1485de3e60e5" width="100"/>
+<img src="https://github.com/CreatorCredentials/.github/assets/14913025/f53962c2-7c4c-4312-a0b2-1485de3e60e5" width="250"/>
 
 The development work and innovation process has been funded by European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101093274
 
-[https://trustchain.ngi.eu/creatorcredentials-cc/](https://trustchain.ngi.eu/creatorcredentials-cc/)
+[https://trustchain.ngi.eu/creatorcredentials](https://trustchain.ngi.eu/creatorcredentials)
 
 ---
 
