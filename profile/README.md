@@ -1,5 +1,7 @@
 # Introduction to Creator Credentials 👋  
 
+# The Project
+
 <div align="left">
 
 <figure><picture><source srcset="https://github.com/CreatorCredentials/docs/blob/main/.gitbook/assets/CC%20logo-text.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/CC logo-text.png" alt="" width="188"></picture><figcaption></figcaption></figure>
